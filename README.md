@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm MD SHAZAN MAHMUD ARPON. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;GAME+DEVELOPER%20;APP+DEVELOPER%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
@@ -42,15 +41,11 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/md-shazan-mahmud-arpon" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.facebook.com/shazan.arpon007" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
 <a target="_blank" href="https://stackoverflow.com/users/15180737" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=arpondark&show_icons=true&locale=en&layout=compact" alt="arpondark" /></p>
-
-  
-  <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+  </picture>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=arpondark&show_icons=true&locale=en&layout=compact" alt="arpondark" /></p>
 
-
-
-
+  
