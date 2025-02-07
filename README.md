@@ -1,4 +1,8 @@
-<h1>Hi 👋, I'm MD SHAZAN MAHMUD ARPON.</h1>
+
+<h1 align="center">Hi 👋, I'm MD SHAZAN MAHMUD ARPON. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;GAME+DEVELOPER%20;APP+DEVELOPER%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 <p>A passionate Fullstack developer from Bangladesh.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
@@ -46,5 +50,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+
 
 
