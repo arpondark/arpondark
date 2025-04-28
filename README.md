@@ -1,8 +1,60 @@
-<h1 align="center">Hi 👋, I'm MD SHAZAN MAHMUD ARPON. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi 👋, I'm MD SHAZAN MAHMUD ARPON <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;GAME+DEVELOPER%20;APP+DEVELOPER%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Web+Developer;Game+Developer;App+Developer;IoT+Enthusiast;Always+Learning+New+Things!">
+  </a>
 </p>
-<p>A passionate Fullstack developer from Bangladesh.</p>
+
+---
+
+### 🧑‍💻 About Me
+
+- 🎓 I'm a Computer Science student and passionate Fullstack Developer from **Bangladesh** 🇧🇩
+- 🚀 I build websites, mobile apps, and IoT projects
+- 🧠 Currently learning advanced Backend Development and AI integration
+- 🛠️ Always working on exciting projects
+
+---
+## 🛠️ Skills
+
+### 🚀 Web Development
+- **Frontend**:  
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+  ![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black) 
+  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
+
+- **Backend**:  
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) 
+  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) 
+  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) 
+  ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) 
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
+- **CMS**:  
+  ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
+---
+
+### 🔥 IoT & Embedded Systems
+- **Arduino Programming**  
+  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+- **ESP32 / ESP8266 Development**  
+  ![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
+  
+- **Raspberry Pi Pico Projects**  
+  ![Raspberry Pi Pico](https://img.shields.io/badge/-Raspberry%20Pi%20Pico-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+
+- **Microcontroller Integrations**  
+  - Embedded C Programming
+  - Sensor & Actuator Interfaces
+  - Wireless Communication (WiFi, Bluetooth)
+
+---
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
@@ -46,6 +98,27 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   </picture>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=arpondark&show_icons=true&locale=en&layout=compact" alt="arpondark" /></p>
+  
 
+
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arpondark&show_icons=true&theme=radical" width="48%" alt="My GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpondark&layout=compact&theme=radical" width="40%" alt="Top Languages"/>
+</p>
+---
+
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-shazan-mahmud-arpon" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.facebook.com/shazan.arpon007" target="_blank"><img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://stackoverflow.com/users/15180737" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-Profile-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
+</p>
+
+---
+
+<h3 align="center">⚡ Let's Build The Future Together! ⚡</h3>
   
