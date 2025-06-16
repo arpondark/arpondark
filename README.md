@@ -102,6 +102,22 @@
 
 
 
+### 🚀 Live Projects
+
+<p align="center">
+  <a href="https://barta-seven.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Barta-Live%20Project-00D4AA?style=for-the-badge&logo=vercel&logoColor=white" alt="Barta Project">
+  </a>
+  <a href="https://www.lovepropose.fun/" target="_blank">
+    <img src="https://img.shields.io/badge/Love%20Propose-Live%20Project-E91E63?style=for-the-badge&logo=heart&logoColor=white" alt="Love Propose">
+  </a>
+  <a href="https://pitasaservice.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Pitasa%20Service-Live%20Project-FF6B35?style=for-the-badge&logo=globe&logoColor=white" alt="Pitasa Service">
+  </a>
+</p>
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -121,4 +137,4 @@
 ---
 
 <h3 align="center">⚡ Let's Build The Future Together! ⚡</h3>
-  
+
