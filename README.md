@@ -138,3 +138,15 @@
 
 <h3 align="center">⚡ Let's Build The Future Together! ⚡</h3>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/arpondark/arpondark/main/images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/arpondark/arpondark/main/images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/arpondark/arpondark/main/images/breakout-light.svg" />
+</picture>
+
