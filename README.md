@@ -176,9 +176,28 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arpondark&show_icons=true&theme=radical" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpondark&layout=compact&theme=radical" />
+  <img
+    width="45%"
+    src="https://github-readme-stats.vercel.app/api
+      ?username=arpondark
+      &show_icons=true
+      &theme=radical
+      &hide_border=true
+      &cache_seconds=86400"
+  />
+  <img
+    width="45%"
+    src="https://github-readme-stats.vercel.app/api/top-langs
+      ?username=arpondark
+      &layout=compact
+      &langs_count=8
+      &theme=radical
+      &hide_border=true
+      &cache_seconds=86400"
+  />
 </p>
+
+
 
 ---
 
