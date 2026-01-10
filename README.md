@@ -177,11 +177,11 @@
 
 <div align="center">
 
-![Arpon's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpondark&show_icons=true&theme=radical&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpondark&show_icons=true&theme=radical&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpondark&layout=compact&langs_count=8&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpondark&layout=compact&theme=radical&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=arpondark&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arpondark&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
 </div>
 
