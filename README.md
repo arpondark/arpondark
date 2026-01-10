@@ -175,9 +175,15 @@
 
 ## 📈 GitHub Stats
 
-![Arpon's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpondark&show_icons=true&theme=radical&cache_seconds=86400)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpondark&layout=compact&langs_count=8&theme=radical&cache_seconds=86400)
+![Arpon's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpondark&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpondark&layout=compact&langs_count=8&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=arpondark&theme=radical)](https://git.io/streak-stats)
+
+</div>
 
 
 
