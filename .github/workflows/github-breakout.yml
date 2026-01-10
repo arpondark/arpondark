@@ -15,8 +15,10 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # IMPORTANT
 
-      - name: generate SVG
+      - name: Generate SVG
         uses: cyprieng/github-breakout@v1.0.0
         with:
           github_username: ${{ github.repository_owner }}
@@ -34,6 +36,7 @@ jobs:
 
       - name: Commit and push SVGs
         run: |
+          git pull --rebase origin main
           git add images/breakout-light.svg images/breakout-dark.svg
           git commit -m "chore: update breakout SVGs" || echo "No changes to commit"
-          git push
+          git push origin main
