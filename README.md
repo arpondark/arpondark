@@ -17,6 +17,14 @@
 
 ---
 
+### 🎓 Education
+
+- **United International University (UIU)**  
+  *B.Sc. in Computer Science and Engineering (CSE)*  
+  *3rd Year*
+
+---
+
 ## 🛠️ Skills
 
 ### 🎨 Frontend Development
@@ -35,9 +43,9 @@
 
 ### 🔧 Backend Development
 
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-F05340?style=flat-square&logo=laravel&logoColor=white)
@@ -109,9 +117,16 @@
 
 ---
 
+### 🤖 AI & Machine Learning
+
+![YOLOv8](https://img.shields.io/badge/-YOLOv8-00FFFF?style=flat-square&logo=ultralytics&logoColor=black)
+
+---
+
 ## 🚀 Languages and Tools
 
 <p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="42" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" />
@@ -125,7 +140,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="42" />
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="42" />
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="42" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="42" />
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="42" />
