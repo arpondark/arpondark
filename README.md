@@ -60,25 +60,6 @@
 
 ---
 
-### 📱 App Development
-
-**Flutter & Dart**  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-**Mobile App Features:**
-- Cross-platform Android/iOS apps
-- State management: Provider, Bloc, GetX
-- API integration & JSON handling
-- Pixel-perfect UI & responsive layouts
-- Local storage: Hive, SharedPreferences
-- Play Store release & app signing
-- CI/CD & optimization
-
-**Backend & Services:**
-- Firebase (Firestore, Realtime DB, Auth, Cloud Messaging, Hosting)
-
----
 
 ### ⚙️ DevOps & Deployment
 
