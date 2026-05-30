@@ -172,6 +172,12 @@ const arpon = {
 *"The best way to predict the future is to invent it."*
 
 <br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
 
 <a href="https://github.com/arpondark">
   <img src="https://img.shields.io/badge/Made_with_%E2%9D%A4%EF%B8%8F_by-Arpon-ff69b4?style=flat-square&labelColor=24292e"/>
