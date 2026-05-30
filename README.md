@@ -82,7 +82,7 @@ const arpon = {
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redux&theme=dark" width="40"/><br/><sub>Redux</sub></td>
   </tr>
 </table>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 ---
 
 ### 🔧 Backend Development
@@ -102,7 +102,7 @@ const arpon = {
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="40"/><br/><sub>C</sub></td>
   </tr>
 </table>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 **Databases:**
 
 <table>
@@ -113,7 +113,7 @@ const arpon = {
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="40"/><br/><sub>Firebase</sub></td>
   </tr>
 </table>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 ---
 
 ### ⚙️ DevOps & Deployment
@@ -127,7 +127,7 @@ const arpon = {
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="40"/><br/><sub>Git</sub></td>
   </tr>
 </table>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 ---
 
 ### 🔥 IoT & Embedded Systems
@@ -141,7 +141,7 @@ const arpon = {
 </table>
 
 **Specialties:** Embedded C • Sensor Integration • WiFi & Bluetooth • Real-time Processing • Robotics
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 ---
 
 ### 🤖 AI & Machine Learning
