@@ -102,18 +102,36 @@ const arpon = {
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="40"/><br/><sub>C</sub></td>
   </tr>
 </table>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-**Databases:**
+<h3 align="center">🗄️ Databases & Storage</h3>
+
+<div align="center">
 
 <table>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="40"/><br/><sub>MySQL</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="40"/><br/><sub>PostgreSQL</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="40"/><br/><sub>MongoDB</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="40"/><br/><sub>Firebase</sub></td>
-  </tr>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="60"/><br/>
+<b>MySQL</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="60"/><br/>
+<b>PostgreSQL</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="60"/><br/>
+<b>MongoDB</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="60"/><br/>
+<b>Firebase</b>
+</td>
+</tr>
 </table>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</div>
+
 ---
 
 ### ⚙️ DevOps & Deployment
