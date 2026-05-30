@@ -1,173 +1,157 @@
-<h1 align="center">Hi 👋, I'm MD SHAZAN MAHMUD ARPON <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=MD%20Shazan%20Mahmud%20Arpon&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CSE%20Student%20•%20Developer&descSize=16&descAlignY=62&color=0:16a34a,50:7c3aed,100:b91c1c"/>
+
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=22c55e&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=40&lines=CSE+Student+at+United+International+University;Spring+Boot+Developer;Software+Engineer;Java+Engineer;Linux+Enthusiast;Learning+today%2C+building+tomorrow" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <a href="https://www.linkedin.com/in/md-shazan-mahmud-arpon">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1f2937&color=0A66C2"/>
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/shazan.arpon007">
+    <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1f2937&color=0866FF"/>
+  </a>
+  &nbsp;
+  <a href="https://stackoverflow.com/users/15180737">
+    <img src="https://img.shields.io/badge/Stack_Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=1f2937&color=F48024"/>
+  </a>
+
+</div>
+
+<br/>
+
+## 👨‍💻 About Me
+
+> "Code is like humor. When you have to explain it, it's bad."
+
+I’m **MD Shazan Mahmud Arpon**, a **full stack developer** with a **backend focus** and a **Computer Science and Engineering student** at **United International University**. I like building clean systems, learning how software works under the hood, and turning ideas into useful products.
+
+<table>
+<tr>
+<td width="55%">
+
+- 🎓 B.Sc. in CSE at United International University
+- 💻 Full stack developer with a backend focus
+- 🌱 Currently mastering Spring Boot microservices
+- 🐧 Interested in Linux, open source, Robotics, and AI
+- ⚡ Enjoy solving problems and improving system design skills
+
+</td>
+<td width="45%">
+
+```javascript
+const arpon = {
+  university: "United International University",
+  major: "Computer Science and Engineering",
+  languages: ["Java", "Python", "C++", "C", "TypeScript"],
+  tools: ["Spring Boot", "Docker", "Kubernetes", "Git"],
+  interests: ["Linux", "Open Source", "Robotics", "AI"]
+};
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30"/> Tech Arsenal
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="40"/><br/><sub>Java</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="40"/><br/><sub>Spring</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="40"/><br/><sub>Python</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="40"/><br/><sub>C++</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="40"/><br/><sub>C</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="40"/><br/><sub>TypeScript</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="40"/><br/><sub>JavaScript</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="40"/><br/><sub>React</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="40"/><br/><sub>Next.js</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="40"/><br/><sub>Node.js</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="40"/><br/><sub>PHP</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="40"/><br/><sub>Laravel</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="40"/><br/><sub>Docker</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="40"/><br/><sub>K8s</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="40"/><br/><sub>MySQL</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="40"/><br/><sub>PostgreSQL</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="40"/><br/><sub>MongoDB</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="40"/><br/><sub>Linux</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="40"/><br/><sub>Git</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="40"/><br/><sub>Firebase</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="40"/><br/><sub>AWS</sub></td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28"/> GitHub Analytics
+
+<div align="center">
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Computer+Engineer;Web+Developer;Game+Developer;App+Developer;IOT+Expert;Always+Learning+New+Things!">
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arpondark&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arpondark&theme=tokyonight" />
 </p>
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpondark&bg_color=0d1117&color=2DD4BF&line=38bdf8&point=e5e7eb&area=true&area_color=0f3642&hide_border=true" width="100%" alt="Activity Graph"/>
 
-### 🧑‍💻 About Me
+</div>
 
-- 🎓 I'm a Computer Science student and passionate Fullstack Developer from **Bangladesh** 🇧🇩  
-- 🚀 I build websites, mobile apps, and IoT projects  
-- 🧠 Currently learning advanced Backend Development and AI integration  
-- 🛠️ Always working on exciting projects  
+<br/>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### 🎓 Education
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"/> Current Roadmap
 
-- **United International University (UIU)**  
-  *B.Sc. in Computer Science and Engineering (CSE)*  
-  *3rd Year*
+<div align="center">
 
----
+<table>
+  <tr>
+    <td width="33%" align="center" style="border: 2px solid #22c55e; border-radius: 14px; padding: 16px;">
+      <div style="font-size: 18px; font-weight: 700; color: #22c55e;">Building</div>
+      <div style="margin-top: 10px; font-size: 15px; color: #e5e7eb;">Scalable Microservices</div>
+      <div style="margin-top: 6px; color: #cbd5e1;">RESTful APIs</div>
+      <div style="margin-top: 6px; color: #cbd5e1;">Real-world Projects</div>
+    </td>
+    <td width="33%" align="center" style="border: 2px solid #16a34a; border-radius: 14px; padding: 16px;">
+      <div style="font-size: 18px; font-weight: 700; color: #16a34a;">Exploring</div>
+      <div style="margin-top: 10px; font-size: 15px; color: #e5e7eb;">Cloud Native Patterns</div>
+      <div style="margin-top: 6px; color: #cbd5e1;">Event-Driven Architecture</div>
+      <div style="margin-top: 6px; color: #cbd5e1;">Kubernetes Orchestration</div>
+    </td>
+    <td width="33%" align="center" style="border: 2px solid #4ade80; border-radius: 14px; padding: 16px;">
+      <div style="font-size: 18px; font-weight: 700; color: #4ade80;">Mastering</div>
+      <div style="margin-top: 10px; font-size: 15px; color: #e5e7eb;">System Design</div>
+      <div style="margin-top: 6px; color: #cbd5e1;">Advanced DSA</div>
+      <div style="margin-top: 6px; color: #cbd5e1;">Clean Architecture</div>
+    </td>
+  </tr>
+</table>
 
-## 🛠️ Skills
+</div>
 
-### 🎨 Frontend Development
+<br/>
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-
----
-
-### 🔧 Backend Development
-
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-F05340?style=flat-square&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-**Databases:**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
----
-
-
-### ⚙️ DevOps & Deployment
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**Deployment & CI/CD:**
-- Docker containerization
-- AWS hosting & services
-- GitHub Actions CI/CD
-- Vercel deployment
-- App signing & optimization
-- Server management
-
----
-
-### 🔥 IoT & Embedded Systems
-
-**Microcontrollers:**  
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-
-**Frameworks & Tools:**  
-![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
-
-**Specialties:**
-- Embedded C programming
-- Sensor & actuator integration
-- WiFi & Bluetooth systems
-- Real-time data processing
-
----
-
-### 🤖 AI & Machine Learning
-
-![YOLOv8](https://img.shields.io/badge/-YOLOv8-00FFFF?style=flat-square&logo=ultralytics&logoColor=black)
-
----
-
-## 🚀 Languages and Tools
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="42" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="42" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="42" />
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42" />
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="42" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="42" />
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="42" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="42" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" />
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="42" />
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="42" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="42" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="42" />
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="42" />
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42" />
-<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="42" />
-<img src="https://raw.githubusercontent.com/kenangundogan/fontisto/master/icons/svg/brand/unreal-engine.svg" width="42" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" />
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="42" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="42" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="42" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="42" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="42" />
-</p>
-
----
-
-## ⚡️ Where to find me
-
-<p>
-<a href="https://www.linkedin.com/in/md-shazan-mahmud-arpon"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" /></a>
-<a href="https://www.facebook.com/shazan.arpon007"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" /></a>
-<a href="https://stackoverflow.com/users/15180737"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" /></a>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
----
-
-
-## 🚀 Live Projects
-
-
+## Featured Work
 
 <p align="center">
   <a href="https://robotics.uiu.ac.bd"><img src="https://img.shields.io/badge/UIU%20Robotics%20Club-Live%20Project-1976D2?style=for-the-badge&logo=robotframework&logoColor=white" /></a><br>
@@ -177,29 +161,20 @@
   <a href="https://cholokini.com.bd/"><img src="https://img.shields.io/badge/Cholokini-Ecommerce%20Web-FF9800?style=for-the-badge&logo=shopping-cart&logoColor=white" /></a>
 </p>
 
----
-
-## 📈 GitHub Stats
+<br/>
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpondark&show_icons=true&theme=radical&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpondark&layout=compact&theme=radical&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arpondark&theme=radical&hide_border=false)](https://git.io/streak-stats)
+*"The best way to predict the future is to invent it."*
+
+<br/>
+
+<a href="https://github.com/arpondark">
+  <img src="https://img.shields.io/badge/Made_with_%E2%9D%A4%EF%B8%8F_by-Arpon-ff69b4?style=flat-square&labelColor=24292e"/>
+</a>
 
 </div>
-
-
-
-
----
-
-<h3 align="center">⚡ Let's Build The Future Together! ⚡</h3>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arpondark/arpondark/main/images/breakout-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arpondark/arpondark/main/images/breakout-light.svg" />
-  <img alt="Breakout Game" src="https://raw.githubusercontent.com/arpondark/arpondark/main/images/breakout-light.svg" />
-</picture>
