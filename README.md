@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=MD%20Shazan%20Mahmud%20Arpon&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CSE%20Student%20•%20Developer&descSize=16&descAlignY=62&color=0:16a34a,50:7c3aed,100:b91c1c"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=MD%20Shazan%20Mahmud%20Arpon&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CSE%20Student%20•%20Java%20Developer•%20FullStack%20Developer•%20Software%20Engineer&descSize=16&descAlignY=62&color=0:16a34a,50:7c3aed,100:b91c1c"/>
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=22c55e&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=40&lines=CSE+Student+at+United+International+University;Spring+Boot+Developer;Software+Engineer;Java+Engineer;Linux+Enthusiast;Learning+today%2C+building+tomorrow" alt="Typing SVG" />
