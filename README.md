@@ -65,35 +65,96 @@ const arpon = {
 
 <div align="center">
 
+### 🎨 Frontend Development
+
 <table>
   <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="40"/><br/><sub>Java</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="40"/><br/><sub>Spring</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="40"/><br/><sub>Python</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="40"/><br/><sub>C++</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="40"/><br/><sub>C</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="40"/><br/><sub>TypeScript</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="40"/><br/><sub>HTML5</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="40"/><br/><sub>CSS3</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="40"/><br/><sub>JavaScript</sub></td>
-  </tr>
-  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="40"/><br/><sub>TypeScript</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="40"/><br/><sub>React</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="40"/><br/><sub>Next.js</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="40"/><br/><sub>Bootstrap</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/><br/><sub>Tailwind</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redux&theme=dark" width="40"/><br/><sub>Redux</sub></td>
+  </tr>
+</table>
+
+---
+
+### 🔧 Backend Development
+
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="40"/><br/><sub>Spring Boot</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="40"/><br/><sub>Java</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="40"/><br/><sub>Node.js</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="40"/><br/><sub>Express.js</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="40"/><br/><sub>Python</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="40"/><br/><sub>PHP</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="40"/><br/><sub>Laravel</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="40"/><br/><sub>Docker</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="40"/><br/><sub>K8s</sub></td>
   </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="40"/><br/><sub>C++</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="40"/><br/><sub>C</sub></td>
+  </tr>
+</table>
+
+**Databases:**
+
+<table>
   <tr>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="40"/><br/><sub>MySQL</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="40"/><br/><sub>PostgreSQL</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="40"/><br/><sub>MongoDB</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="40"/><br/><sub>Linux</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="40"/><br/><sub>Git</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="40"/><br/><sub>Firebase</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="40"/><br/><sub>AWS</sub></td>
   </tr>
 </table>
+
+---
+
+### ⚙️ DevOps & Deployment
+
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="40"/><br/><sub>Docker</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="40"/><br/><sub>Kubernetes</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="40"/><br/><sub>AWS</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="40"/><br/><sub>Linux</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="40"/><br/><sub>Git</sub></td>
+  </tr>
+</table>
+
+---
+
+### 🔥 IoT & Embedded Systems
+
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="40"/><br/><sub>Arduino</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" width="40"/><br/><sub>Raspberry Pi</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ros&theme=dark" width="40"/><br/><sub>ROS2</sub></td>
+  </tr>
+</table>
+
+**Specialties:** Embedded C • Sensor Integration • WiFi & Bluetooth • Real-time Processing • Robotics
+
+---
+
+### 🤖 AI & Machine Learning
+
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/><br/><sub>PyTorch</sub></td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40"/><br/><sub>OpenCV</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="40"/><br/><sub>Python</sub></td>
+  </tr>
+</table>
+
+**Focus:** YOLOv8 • Computer Vision • Deep Learning • Data Processing • AI
 
 </div>
 
@@ -162,6 +223,11 @@ const arpon = {
 </p>
 
 <br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 <div align="center">
 
@@ -172,11 +238,7 @@ const arpon = {
 *"The best way to predict the future is to invent it."*
 
 <br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+
 
 
 <a href="https://github.com/arpondark">
