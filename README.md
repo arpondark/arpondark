@@ -149,12 +149,13 @@ const arpon = {
 ---
 
 ### 🔥 IoT & Embedded Systems
-
 <table>
   <tr>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="40"/><br/><sub>Arduino</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" width="40"/><br/><sub>Raspberry Pi</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ros&theme=dark" width="40"/><br/><sub>ROS2</sub></td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/NVIDIA-Jetson-76B900?style=flat&logo=nvidia&logoColor=white" width="80"/><br/><sub>Jetson</sub></td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/NVIDIA-Orin-76B900?style=flat&logo=nvidia&logoColor=white" width="80"/><br/><sub>Orin</sub></td>
   </tr>
 </table>
 
